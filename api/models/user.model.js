@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema(
     avatar: {
       type: String,
       default:
-        'https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/',
+        'https://static.vecteezy.com/system/resources/thumbnails/020/765/399/small/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg',
     },
   },
   { timestamps: true }
